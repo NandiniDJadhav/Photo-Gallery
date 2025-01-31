@@ -1,5 +1,6 @@
 # Photo-Gallery
 Here is a `README.md` file for your photo gallery project, formatted for GitHub, including sections for features, installation, usage, and screenshots.  
+![Screenshot 2025-01-31 005700](https://github.com/user-attachments/assets/bcba473a-48c9-4e7e-90d0-e14affcbe00a)
 
 Let me know if you need any modifications!  
 
@@ -9,7 +10,7 @@ Let me know if you need any modifications!
 
 A simple and responsive Photo Gallery web application that allows users to upload, view, and organize images.  
 
-![Screenshot](screenshots/homepage.png)  
+ 
 
 ## 🚀 Features  
 ✅ Upload and store images  
@@ -53,16 +54,16 @@ A simple and responsive Photo Gallery web application that allows users to uploa
 ## 🖼️ Screenshots  
 
 ### 📍 Home Page  
-![Home Page](![Screenshot 2025-01-31 005700](https://github.com/user-attachments/assets/1bee4815-6346-4b7b-88d1-187ecb7af75d)  
+[Screenshot 2025-01-31 005700](https://github.com/user-attachments/assets/1bee4815-6346-4b7b-88d1-187ecb7af75d)  
 
 ### 📤 Upload Page  
-![Upload Page]![Screenshot 2025-01-31 005726](https://github.com/user-attachments/assets/b9567adb-7d0f-4c66-97cc-cb91eb265b6f)
-  ![Screenshot 2025-01-31 005741](https://github.com/user-attachments/assets/bab03d6a-6071-48d3-bf39-761e64080438)
+[Screenshot 2025-01-31 005726](https://github.com/user-attachments/assets/b9567adb-7d0f-4c66-97cc-cb91eb265b6f)
+  [Screenshot 2025-01-31 005741](https://github.com/user-attachments/assets/bab03d6a-6071-48d3-bf39-761e64080438)
 
 
 ### 🔍 Image Preview  
-![Preview](![Screenshot 2025-01-31 005811](https://github.com/user-attachments/assets/6cb15bd5-1384-442c-b40f-cf4cac530c10)
-)  
+[Screenshot 2025-01-31 005811](https://github.com/user-attachments/assets/6cb15bd5-1384-442c-b40f-cf4cac530c10)
+  
 
 ## 🤝 Contributing  
 1. Fork the project  
