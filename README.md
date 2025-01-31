@@ -62,7 +62,7 @@ A simple and responsive Photo Gallery web application that allows users to uploa
 
 
 ### 🔍 Image Preview  
-[Screenshot 2025-01-31 005811](https://github.com/user-attachments/assets/6cb15bd5-1384-442c-b40f-cf4cac530c10)
+![Screenshot 2025-01-31 005811](https://github.com/user-attachments/assets/6cb15bd5-1384-442c-b40f-cf4cac530c10)
   
 
 ## 🤝 Contributing  
